@@ -1,3 +1,2 @@
 # OS_Codes
-  Synchronization
-  Memory Management
+  Synchronization and Memory Management 
